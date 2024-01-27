@@ -1,57 +1,62 @@
-IN ENGLISH:
-
-This is free and unencumbered software released into the public domain.
-
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
-________________
-________________
-
-
 НА РУССКОМ ЯЗЫКЕ:
 
-Это бесплатное программное обеспечение, выпущенное в общественное достояние.
+!!! Эта лицензия отменяется автоматически
+при появлении следующего её изменения (следующего "комита" = "commit") !!!
+
+Данная лицензия распространяется на хранилище (репозиторий) 
+и его содержимое (далее Хранилище). Имя Хранилища: PROGRAMMING_Hints. 
+Хранилище создано с помощью веб-сервиса для хостинга IT-проектов 
+и их совместной разработки. Название веб-сервиса: GitHub.
+Хранилище распространяется с помощью ссылки: 
+https://github.com/TRAVALIN/PROGRAMMING_Hints 
+
+Это бесплатное Хранилище выпущено в общественное достояние.
 
 Любой желающий может свободно копировать, изменять, публиковать, 
-использовать, компилировать, продавать или
-распространять это программное обеспечение либо в виде исходного кода, 
-либо в виде скомпилированного двоичного файла, для любых целей, 
-коммерческих или некоммерческих, и любыми средствами.
+использовать, компилировать, распространять Хранилище, 
+но не в коем случае не использовать Хранилище в коммерческих целях.
+Содержание Хранилища не в коем случае не может быть использовано
+для нанесения любого ущерба. Мы делаем это на благо общества в целом
+и не в ущерб, а во благо нашим наследникам и правопреемникам. 
+Вина за ущерб нанесённый пользователями Хранилища, 
+при его неправилном использовании, лежит на пользователях Хранилища.
 
 В юрисдикциях, признающих законы об авторском праве, автор или соавторы
-данного программного обеспечения передают все без исключения авторские права на
-программное обеспечение является общественным достоянием. Мы делаем это на благо
-общества в целом и в ущерб нашим наследникам и
-правопреемницам. Мы предполагаем, что это посвящение станет открытым актом
-бессрочного отказа от всех настоящих и будущих прав на данное
-программное обеспечение в соответствии с законом об авторском праве.
+данного Хранилища не передают свои авторские права на Хранилище ни каким
+другим лицам и не отказываются от своих авторских прав. При этом нужно
+помнить, что соавторами Хранилища являются создатели программного
+обеспечения, с помощью которого создано это Хранилище.
+___________
+___________
 
-ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ", БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ,
-ЯВНЫЕ ИЛИ ПОДРАЗУМЕВАЕМЫЕ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИЯМИ ТОВАРНОЙ
-ПРИГОДНОСТИ, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И НЕНАРУШЕНИЯ АВТОРСКИХ ПРАВ.
-НИ В КОЕМ СЛУЧАЕ АВТОРЫ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА КАКИЕ-ЛИБО ПРЕТЕНЗИИ, УЩЕРБ ИЛИ
-ИНАЯ ОТВЕТСТВЕННОСТЬ, БУДЬ ТО В РЕЗУЛЬТАТЕ ДЕЙСТВИЯ ДОГОВОРА, ДЕЛИКТА ИЛИ ИНЫМ ОБРАЗОМ,
-ВЫТЕКАЮЩАЯ ИЗ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ ИСПОЛЬЗОВАНИЯ ИЛИ В СВЯЗИ С НИМ, ИЛИ
-ДРУГИЕ СДЕЛКИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ.
+IN ENGLISH:
 
-Для получения дополнительной информации, пожалуйста, обратитесь к <https://unlicense.org>
+!!! This license is canceled automatically 
+when the next change appears (the next "commit") !!!
+
+This license applies to the repository
+and its contents (hereinafter referred to as "Repository"). 
+"Repository" Name: PROGRAMMING_Hints.
+"Repository" was created using a web service for hosting IT projects
+and their joint development. The name of the web service: GitHub.
+"Repository" is distributed using a link:
+https://github.com/TRAVALIN/PROGRAMMING_Hints
+
+This free "Repository" has been released into the public domain.
+
+Anyone can freely copy, modify, publish,
+use, compile, distribute "Repository",
+but in no case use "Repository" for commercial purposes.
+In no case can the contents of "Repository" be used
+to cause any damage. We do this for the benefit of society as a whole
+and not to the detriment, but for the benefit of our heirs and legal successors.
+The blame for the damage caused by the users of "Repository",
+in case of its misuse, lies with the users of "Repository".
+
+In jurisdictions that recognize copyright laws, the author or co
+-authors of this "Repository" do not transfer their copyrights to "Repository" to any
+to other persons and do not give up their copyrights. At the same time, it should
+be remembered that the co-authors of "Repository" are the creators
+of the software with which this "Repository" was created.
+________________
+________________
