@@ -16,3 +16,12 @@ for (int i = 0, j = arr.Length - 1; i < arr.Length/2; i++, j--)
 }
 
 /* НУЖНО ДОРЕШАТЬ по элементу без пары */
+int middleArr = 0;
+int index_middleArr = 0;
+if (arr.Length % 2 != 0)
+{
+    index_middleArr = arr.Length / 2;
+    middleArr = arr[index_middleArr];
+    Console.Write("Элемент " + middleArr + " не имеет пары" );
+}
+/* УРА! Дорешал! */
