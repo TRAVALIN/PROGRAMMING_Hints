@@ -9,8 +9,8 @@
 4, -2 => 4
 */
 
-int x = -2;
-int y = -5;
+int x = 4;
+int y = 0;
 if (x > 0 & y > 0)
 {
     Console.WriteLine("1");
@@ -27,4 +27,7 @@ if (x > 0 & y < 0)
 {
     Console.WriteLine("4");
 }
-
+if (x == 0 | y == 0)
+{
+    Console.Write("Точка с такими координатами на оси координат");
+}
