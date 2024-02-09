@@ -42,29 +42,30 @@ if (i == countDigit - 1)
 Console.WriteLine(" ");
 Console.WriteLine(" ");
 
-int pow = 10;
-for (int j = 1; j < countDigit; j++)
+int pow = 1;
+int b = 10;
+for (int j = 1; j <= countDigit; j++)
 {
-    pow = pow * 10;
+    pow = pow * b;
 }
 
-int ostatok = 0;
-int delitel = 0;
+int remained = 0;
+int denumerator = 0;
 int Digit = 0;
 int k = 1;
 while (k < pow / 10)
 {
-    ostatok = a % (pow / k);
-    delitel = pow / (10 * k);
-    Digit = ostatok / delitel;
+    remained = a % (pow / k);
+    denumerator = pow / (10 * k);
+    Digit = remained / denumerator;
     k = k * 10;
-    Console.Write($"{Digit}, ", " ");
+    Console.Write($"{Digit}, ");
 }
 if (k == pow / 10)
 {
-    ostatok = a % (pow / k);
-    delitel = pow / (10 * k);
-    Digit = ostatok / delitel;
+    remained = a % (pow / k);
+    denumerator = pow / (10 * k);
+    Digit = remained / denumerator;
     k = k * 10;
-    Console.Write(Digit);
+    Console.Write($"{Digit}");
 }
